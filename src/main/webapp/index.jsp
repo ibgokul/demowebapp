@@ -14,7 +14,7 @@
 <<<<<<< HEAD
       <h2 class="text-center">Welcome to Gokul, Aswin, Jai, Deepak and Chaitali on behalf of Infinito Solutions</h2>
 =======
-      <h2 class="text-center">Welcome Nitheesh, on behalf of Infinito Solutions</h2>
+      <h2 class="text-center">Welcome Ajeesh, on behalf of Infinito Solutions</h2>
 >>>>>>> 8306695f67ee87a6abd8d192cd853689acfaf43d
       
 <center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
